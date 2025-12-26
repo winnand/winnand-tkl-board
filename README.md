@@ -13,39 +13,6 @@ I made this project because I enjoyed the idea of having a keyboard that I made 
 <img width="1723" height="892" alt="KeyboardPCBBackBare" src="https://github.com/user-attachments/assets/fe202a8c-4a5b-41f1-8451-32272871bbe3" />
 <img width="1723" height="892" alt="KeyboardPCBFrontBare" src="https://github.com/user-attachments/assets/73c4d3fa-4924-41ba-be35-4c158a783962" />
 
-BOM in table format at the end of the README
-
-# Build Instructions
-1. Watch a few keyboard building guides on YouTube, read the instructions, then download and extract the latest package
-
-2. Print out all the step files
-
-3. Order/gather the parts in the BOM.csv. You can get the PCB's from JLCPCB using the Gerbers.zip
-
-4. Use superglue or any other adhesive to join together the 2 halves of the top plate
-
-5. Use superglue or any other adhesive to join together the 2 halves of the case
-
-6. Insert all the switches into the top plate, making sure they are aligned such that they will go into the pads on the PCB
-
-7. Solder in all the diodes and make sure that they are in the correct orientation
-
-8. Solder in the Raspberry Pi such that the USB port faces left, inwards to the PCB
-
-9. Solder in the rotary encoder, making sure the encoder part is on the top side
-
-10. Place the top plate with switches onto the PCB and align all the pins into their holes
-
-11. Solder in the switches
-
-12. Insert the adapter into the Raspberry Pi. If it doesn't fit, sand down the side that interferes with the PCB
-
-13. Screw in the other side of the adapter into the inside of the case using the screws included in the package
-
-14. Put in the heatset inserts into the keyboard case
-
-15. Use the M2 screws to screw the PCB into the case. Make sure the adapter wire is routed through the routing passage in the case and use loops to deal with extra cable length
-
 # BOM
 
 |Part #                                    |Min. Quantity |Name on Seller Website                                                                                                          |Description      |Link                                                  |Color/Size                                              |Quantity|Unit Price ($)|Total Price ($)|Running Total ($)|
